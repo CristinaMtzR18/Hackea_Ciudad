@@ -1,0 +1,45 @@
+		/* Inserta tu código aqui */
+		/*** GENERAL ***/
+*{
+    margin: 0;
+    padding: 0;
+    /*Las fuentes que estan saque de google font*/
+    font-family: 'Open Sans', 'Courgette';
+}
+.logo{
+	margin: 60% 16% 10% 16%;
+	width: 70%;
+	height: 30%;
+}
+h3{
+	color: yellow;
+	font-weight: 5px;
+}
+.container{
+	background-color: #24C76C;
+	height: 736px;
+}
+.pd-5{
+	margin: 5%
+}
+.entrada{
+	border-radius: 4px;
+	width: 100%;
+	height: 60px;
+	color: yellow;
+	font-size: 3rem; /*Nueva medida de tamaño de fuente, aun no comprendo bien*/
+}
+input{
+	background-color: yellow;
+	font-weight: 5px;
+}
+.miBoton{
+	text-align: center;
+	height: 35px;
+	width: 30%;
+	padding: 2%;
+	margin-left: 35%;
+	color: yellow;
+	background-color: #E01644;
+	font-weight: 5px;
+}

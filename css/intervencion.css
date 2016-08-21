@@ -1,0 +1,37 @@
+		/* Inserta tu código aqui */
+		/*** GENERAL ***/
+*{
+    margin: 0;
+    padding: 0;
+    /*Las fuentes que estan saque de google font*/
+    font-family: 'Open Sans', 'Courgette';
+}
+.logo{
+	margin: 4% 25%;
+	width: 60%;
+	height: 18%;
+}
+.container{
+	background-color: #24C76C;
+	height: 736px;
+}
+.pd-5{
+	margin: 5%
+}
+.inter{
+	box-shadow: 0px 5px 5px #888888;
+	border: 10px white groove;
+	margin: 3% 10% 5%;
+	width: 110%
+	height: 100%;
+}
+.miBoton{
+	text-align: center;
+	height: 35px;
+	width: 30%;
+	padding: 2%;
+	margin-left: 35%;
+	color: yellow;
+	background-color: #E01644;
+	font-weight: 5px;
+}

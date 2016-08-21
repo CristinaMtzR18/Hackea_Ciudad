@@ -1,0 +1,15 @@
+		/* Inserta tu código aqui */
+		/*** GENERAL ***/
+*{
+    margin: 0;
+    padding: 0;
+    /*Las fuentes que estan saque de google font*/
+    font-family: 'Open Sans', 'Courgette';
+}
+.container{
+	background-color: #E01644;
+	height: 736px;
+}
+.logo{
+	margin-top: 70%;
+}
